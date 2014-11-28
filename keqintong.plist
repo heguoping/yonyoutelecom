@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://kqt.yonyouyidong.com:8009/keqintong.ipa</string>
+					<string>https://raw.githubusercontent.com/heguoping/yonyoutelecom/master/keqintong.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
