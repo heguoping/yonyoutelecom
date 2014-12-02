@@ -22,6 +22,8 @@
 				<string>4.0.8</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>title</key>
+				<string>客勤通</string>
 			</dict>
 		</dict>
 	</array>
